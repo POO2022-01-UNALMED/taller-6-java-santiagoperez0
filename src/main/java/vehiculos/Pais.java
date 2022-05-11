@@ -1,3 +1,5 @@
+package vehiculos;
+
 public class Pais {
 	private String nombre;
 	static Map<Pais, Integer> ventasPorPais = new HashMap <Pais, Integer>();
