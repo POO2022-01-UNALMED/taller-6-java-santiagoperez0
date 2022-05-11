@@ -2,6 +2,7 @@ package vehiculos;
 
 public class Vehiculo {
 
+
 	private String placa;
 	private int puertas;
 	private int velocidadMaxima;
